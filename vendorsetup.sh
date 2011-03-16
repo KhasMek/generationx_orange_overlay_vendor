@@ -1,3 +1,2 @@
-add_lunch_combo generationx_orange_fascinate-userdebug
 add_lunch_combo generationx_orange_fascinate-eng
 
